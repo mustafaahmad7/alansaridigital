@@ -6,7 +6,7 @@ Alansari Digital
 
 MIT# alansaridigital
 
-### How to implement Employee Location :
+### How to implement Employee Location & Employee Attendance in Erpnext :
 
 
 #### > Go To Client Side Script List in Erpnext

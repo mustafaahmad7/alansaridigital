@@ -33,7 +33,7 @@ def get_details(user=None):
     """
 
     if user == "Administrator":
-        user_condition = ""  
+        user_condition = ""
     else:
         user_condition = "AND `tabEmployee`.`user_id` = %(user)s"
     

@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include alansaridigital *.css
+recursive-include alansaridigital *.csv
+recursive-include alansaridigital *.html
+recursive-include alansaridigital *.ico
+recursive-include alansaridigital *.js
+recursive-include alansaridigital *.json
+recursive-include alansaridigital *.md
+recursive-include alansaridigital *.png
+recursive-include alansaridigital *.py
+recursive-include alansaridigital *.svg
+recursive-include alansaridigital *.txt
+recursive-exclude alansaridigital *.pyc
